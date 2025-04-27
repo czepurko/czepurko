@@ -37,7 +37,7 @@ Este é um chatbot web interativo para os fãs do time de Counter-Strike: Global
 
 ## Demonstração
 
-*(Aqui você pode adicionar um link para o seu vídeo de demonstração, se já o tiver gravado)*
+*(link vídeo de demonstração)*
 
 ## Autor
 
