@@ -1,9 +1,9 @@
 
 
-<h1 align="center">👋 Olá! Eu sou o Marcos</h1>
+<h1 align="center">👋 Olá! Eu sou o Marcos Czepurko</h1>
 
 <p align="center">
-  💡 Programador focado em <strong>desenvolvimento front-end</strong><br/>
+  💡 Programador focado em <strong>Full Stack developer</strong><br/>
   🎯 Sempre buscando aprender, melhorar e crescer!
 </p>
 
