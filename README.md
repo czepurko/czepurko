@@ -45,8 +45,8 @@
 ## 🧪 Projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
-|--------|-------------|-----------|
-| `Em breve...` | React, Redux, TypeScript | Projeto pessoal em construção |
+|Portfólio |HTML, CSS e JS|Página Pessoal|
+|https://czepurko.github.io/js-developer-portfolio-projeto-base/| JavaScript | Consumo de API | Projeto pessoal em construção |
 
 ---
 
