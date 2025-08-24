@@ -45,8 +45,9 @@
 ## 🧪 Projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
-|Portfólio |HTML, CSS e JS|Página Pessoal|
-|https://czepurko.github.io/js-developer-portfolio-projeto-base/| JavaScript | Consumo de API | Projeto pessoal em construção |
+|Portfólio |HTML, CSS e JS|Página Pessoal| Consumo de API | Projeto pessoal em construção |
+https://czepurko.github.io/js-developer-portfolio-projeto-base
+
 
 ---
 
